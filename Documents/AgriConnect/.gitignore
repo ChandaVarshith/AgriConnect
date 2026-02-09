@@ -1,16 +1,14 @@
-node_modules/
-.env
-.vscode/
-dist/
-build/
-AppData/
-
 # Dependencies
-.pnp
+node_modules/
+/.pnp
 .pnp.js
 
 # Testing
 /coverage
+
+# Production
+/build
+/dist
 
 # Misc
 .DS_Store
@@ -24,7 +22,10 @@ yarn-debug.log*
 yarn-error.log*
 
 # IDE
+.vscode/
 .idea/
+*.swp
+*.swo
 
 # OS
 Thumbs.db
