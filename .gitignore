@@ -4,6 +4,7 @@ node_modules/
 dist/
 build/
 AppData/
+scripts/
 
 # Dependencies
 .pnp
