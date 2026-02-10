@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#2b8a3e"/>
+      <stop offset="1" stop-color="#0b3d0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <g transform="translate(150,120)" fill="#fff" opacity="0.95">
+    <circle cx="180" cy="140" r="80" fill="#ffd27f" />
+    <rect x="140" y="240" width="80" height="140" rx="12" fill="#fff" opacity="0.9"/>
+    <path d="M360 560c-60-80-160-120-260-120-100 0-200 40-260 120h520z" fill="#d9f2d9"/>
+  </g>
+  <text x="50%" y="92%" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">AgriConnect — placeholder background</text>
+</svg>
