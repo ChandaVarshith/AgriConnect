@@ -15,7 +15,7 @@ This repository currently contains the **initial frontend setup** and a **minima
 - Create a shared platform where the public can learn from farmers and engage with agriculture.
 - Reduce dependency on third-party intermediaries by enabling direct farmer–public interaction.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 Frontend:
 - React.js
